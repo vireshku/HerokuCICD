@@ -35,17 +35,3 @@ or
 
 ## Documentation
 
-For more information about using Node.js on Heroku, see these Dev Center articles:
-
-- [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
-
-For more information about the DOM Testing Library and JSDOM, see these articles:
-
-- [DOM Testing Library](https://testing-library.com/docs/dom-testing-library/intro)
-- [JSDOM](https://github.com/jsdom/jsdom#executing-scripts)
-- [dev.to Article](https://dev.to/snowleo208/things-i-learned-after-writing-tests-for-js-and-html-page-4lja)
-- [Forum Question](https://spectrum.chat/testing-library/help-dom/test-plain-html-vanilla-js~9f56a169-ea3f-481b-b1cc-dd9fc70dbeaf)
