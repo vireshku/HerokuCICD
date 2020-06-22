@@ -17,11 +17,6 @@ $ npm start
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
-## Running Tests Locally
-
-- `npm test`: runs the JavaScript unit tests via [Jest](https://jestjs.io/) and [DOM Testing Library](https://testing-library.com/docs/dom-testing-library/intro)
-- `npm run cypress:test`: runs the integration tests via [Cypress](https://www.cypress.io/)
-
 ## Deploying to Heroku
 
 ```
