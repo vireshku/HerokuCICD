@@ -1,4 +1,4 @@
-# heroku-ci--demo--pipeline
+# heroku-ci--demo--pipeline-attempt2
 
 A continuous integration demo app using Node.js and [Express 4](http://expressjs.com/).
 
